@@ -14,6 +14,16 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
 
+.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+
+.title h1 {
+    font-family: sans-serif;
+}
 </style>
